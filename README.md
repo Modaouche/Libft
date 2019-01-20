@@ -21,8 +21,6 @@ ft_putstr, ft_putstr_fd (print sur la sortie standard ou de notre choix)
 
 New fct:
 
-Get_next_line
-ft_printf
-ft_multijoin
+Get_next_line, ft_printf, ft_multijoin
 
 Il y a des bonus avec des listes chaînées mais aussi des fonctions que j'ajoute au fur et à mesure que j'avance dans mes projets.
