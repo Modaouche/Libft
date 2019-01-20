@@ -1,5 +1,7 @@
 # Libft
-Ma bibliothèque en Langage C:
+Ma bibliothèque en Langage C.
+
+
 
 Vous retrouverez plusieurs routines présent dans le Man tel que :
 
